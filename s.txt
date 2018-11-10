@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6688-6C4E
+
+ Directory of C:\workspace\r\test
+
+10/11/2018  14:55    <DIR>          .
+10/11/2018  14:55    <DIR>          ..
+10/11/2018  14:55                 6 README.md
+10/11/2018  14:55                 0 s.txt
+               2 File(s)              6 bytes
+               2 Dir(s)  161,046,052,864 bytes free
